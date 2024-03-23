@@ -69,7 +69,3 @@ This project is licensed under the [MIT License](LICENSE).
 ## Acknowledgments
 
 Special thanks to the creators of ReactJS, Tailwind CSS, React Router DOM, and Redux Toolkit for providing the tools necessary to build this project.
-
----
-
-Feel free to customize this README according to your project's specific details and requirements. If you have any questions or need further assistance, please don't hesitate to reach out. Happy coding! 🚀
